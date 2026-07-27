@@ -1,35 +1,45 @@
-# 💼 VWTech Dev | TI para Empresas
+# 💼 VWTech Dev | Soluções em Tecnologia
 
-Tecnologia e suporte para empresas.
+**Tecnologia para você e sua empresa.**
 
-## 🔧 Serviços
+Oferecemos soluções completas em tecnologia, desde suporte técnico e infraestrutura até desenvolvimento de sistemas personalizados e montagem de computadores de alta performance.
 
-- 💻 Suporte Técnico Empresarial
-- ⚙️ Desenvolvimento de Sistemas
+## 🔧 Nossos Serviços
+
+- 💻 Suporte Técnico para Empresas e Residências
+- 🖥️ Manutenção de Computadores e Notebooks
+- 🎮 PCs de Alta Performance e Upgrades
+- ⚙️ Desenvolvimento de Sistemas Personalizados
 - 🌐 Sites e Soluções Web
-- 🏢 Infraestrutura e Redes
+- 🏢 Infraestrutura de Redes e Servidores
+- ☁️ Backup, Monitoramento e Consultoria em TI
 - 🔄 Automação de Processos
 
 ## 🎯 Missão
 
-Ajudar empresas a prosperar através da tecnologia, oferecendo soluções inteligentes, suporte de confiança e sistemas que resolvem problemas, otimizam processos e impulsionam resultados.
+Oferecer soluções em tecnologia para pessoas e empresas, combinando infraestrutura, suporte e sistemas com atendimento personalizado e excelência técnica. Com um compromisso constante com a qualidade e a inovação, buscamos entregar serviços que não apenas atendam, mas superem as expectativas dos nossos clientes.
 
 ## 🌍 Contato
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40vwtechdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vwtechdev) [![Website](https://img.shields.io/badge/Site-vwtechdev.com.br-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vwtechdev.com.br) [![WhatsApp](https://img.shields.io/badge/WhatsApp-Fale%20Conosco-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547992893609) [![Email](https://img.shields.io/badge/Email-vwtechdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vwtechdev@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40vwtechdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vwtechdev)
+[![Website](https://img.shields.io/badge/Site-vwtechdev.com.br-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vwtechdev.com.br)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Fale%20Conosco-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547992893609)
+[![Email](https://img.shields.io/badge/Email-vwtechdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vwtechdev@gmail.com)
 
 ## 🚀 Nosso Compromisso
 
-✔ Atendimento personalizado
+✔ Atendimento local e remoto
 
-✔ Soluções práticas e eficientes
+✔ Soluções sob medida para cada cliente
 
-✔ Tecnologia sem complicação
+✔ Tecnologia com qualidade e segurança
 
-✔ Foco em resultados reais
+✔ Suporte ágil e atendimento de confiança
+
+✔ Compromisso com resultados reais
 
 ---
 
-> **Você cuida do seu negócio. Nós cuidamos da sua tecnologia.**
+### 💼 VWTech Dev | Soluções em Tecnologia
 
-### VWTech Dev | TI para Empresas 💼
+**Tecnologia para você e sua empresa.**
